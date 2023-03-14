@@ -1,0 +1,10 @@
+@article{REPO-001,
+    author = "Chang, Xiaojun and Ren, Pengzhen and Xu, Pengfei and Li, Zhihui and Chen, Xiaojiang and Hauptmann, Alex",
+    journal = "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    number = "1",
+    pages = "1--26",
+    publisher = "IEEE",
+    title = "{A Comprehensive Survey of Scene Graphs: Generation and Application}",
+    volume = "45",
+    year = "2021"
+}
